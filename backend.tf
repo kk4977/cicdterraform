@@ -3,6 +3,6 @@ terraform {
     bucket = "siva6789"
     key    = "state"
     region = "ap-southeast-2"
-    dynamodb_table ="backend"
+    dynamodb_table ="backend1"
   }
 }
